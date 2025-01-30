@@ -1,4 +1,5 @@
-*Project Title:* Exploratory Data Analysis of Netflix Dataset
+*Project Title:* Netflix Exploratory Data Analysis (EDA) Using Python
+
 
 *Objective:*
 The primary objective of this project is to perform an exploratory data analysis (EDA) on the Netflix dataset to uncover insights about the content available on the platform. This analysis will help understand patterns and trends related to movies and TV shows, including their genres, release years, ratings, and more.
