@@ -78,4 +78,7 @@ The primary goal of this project is to analyze and visualize trends in Netflix c
 This project provides valuable insights into Netflix's content catalog by leveraging data analysis techniques. Key findings include trends in content production, popular directors, and rating distributions, along with a breakdown of missing and duplicate records.
 
 
+## Author
+Vinothini M
+
 
